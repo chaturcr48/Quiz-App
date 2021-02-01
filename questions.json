@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Which day is today ?",
+        "choice1": "Monday",
+        "choice2": "Tuesday",
+        "choice3": "Wednesday",
+        "choice4": "Thrusday",
+        "answer": 3
+      },
+      {
+        "question": "Teachers day is celebrated on ",
+        "choice1": "5th of september",
+        "choice2": "6th of september",
+        "choice3": "7th of september",
+        "choice4": "8th of september",
+        "answer": 1
+      },
+      {
+        "question": "Childrens day is celebrated on ",
+        "choice1": "13th of November",
+        "choice2": "14th of November",
+        "choice3": "15th of November",
+        "choice4": "16th of November",
+        "answer": 2
+      }
+]
